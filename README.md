@@ -5,7 +5,7 @@
 
 
 ## ABOUT ME
-🌱 I’m a Full-Stack web development
+🌱 I’m a Full-Stack web developer
 
 💬 Ask me about Wild life documentaries
 
@@ -20,3 +20,5 @@ Connect with me:
 
 ### Languages and Tools:
 bootstrap css3 html5 javascript nodejs rails ruby sass webpack react
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okechukwu-muokwugwo)](https://github.com/okechukwu-muokwugwo/github-readme-stats)
