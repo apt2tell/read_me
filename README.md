@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Okechukwu-muokwugwo/Okechukwu-muokwugwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi 👋, I am Okechukwu  ✨Muokwugwo✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ABOUT ME
+🌱 I’m a Full-Stack web development
+💬 Ask me about Wild life documentaries
+😄 Interests: Football, Nature, Technology
+💆🏿‍♀️ Mantra: Explore, practcise, learn everyday!
+⚡ Fun fact: [I collaborate daily pair-programming with students around the globe.]
+@ Connect with me:
+[Twitter](https://twitter.com/excel4eva)
+
+### Languages and Tools:
+bootstrap css3 html5 javascript nodejs rails ruby sass webpack react
