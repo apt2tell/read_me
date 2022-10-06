@@ -1,8 +1,4 @@
-### Hi there 👋
 ![banner](https://github.com/Okechukwu-muokwugwo/Okechukwu-muokwugwo/blob/main/banner.png)
-
-## Hi 👋, I am Okechukwu  ✨Muokwugwo✨
-
 
 ## ABOUT ME
 🌱 I’m a Full-Stack web developer
