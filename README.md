@@ -5,7 +5,7 @@
 
 ## About me
 
-I’m an engineer who has an keen and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
+I’m an engineer who has a keen and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
 
 💻 I am a React Enthusiast, and I like to take challenges and come up with solutions..
 
