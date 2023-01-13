@@ -1,7 +1,7 @@
 ![banner](https://github.com/Okechukwu-muokwugwo/Okechukwu-muokwugwo/blob/main/banner-2.PNG)
 
 <h1>Hi there 👋, I'm Okechukwu</h1>
-<h3>I am a Full-Stack developer</h3>
+<h2 align="center">Full-Stack developer</h2>
 
 ## About me
 
