@@ -7,13 +7,11 @@
 
 I’m an engineer who has a keen and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
 
-💻 I am a seasoned full-stack developer with a proven ability to design and optimize products using Ruby/RoR, deep knowledge of relational databases, microservices, and Object Oriented Programming and a strong experience in Agile and Test Driven Development methodology. I am able to create complex products in a changing environment, communicate effectively with the team, and proactively implement innovation in my work, while being able to prioritize tasks and manage my own work while cooperating with others.
+💻 I am a seasoned Full-Stack developer with a proven ability to design and optimize products using Ruby/RoR, deep knowledge of relational databases, microservices, and Object Oriented Programming and a strong experience in Agile and Test Driven Development methodology. I am able to create complex products in a changing environment, communicate effectively with the team, and proactively implement innovation in my work, while being able to prioritize tasks and manage my own work while cooperating with others.
 
 - 🎓 I have a **bachelor's degree** in Electronic & computer engineering.
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
-
-- 🌱 I’m currently working on side projects and applying to jobs.
 
 - 💻 All **my projects** are available [here.](https://github.com/Okechukwu-muokwugwo?tab=repositories)
 
@@ -61,4 +59,4 @@ I’m an engineer who has a keen and consistent growth mindset, who believes str
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Okechukwu-muokwugwo&show_icons=true&theme=nightowl&count_private=true"/>
 </div>
 
-  <div><h5 align="center">©️ Okechukwu 2023</h5></div>
+  <div><h5 align="left">©️ Okechukwu 2023</h5></div>
