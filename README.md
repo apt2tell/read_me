@@ -51,7 +51,8 @@ I’m an engineer who has a keen and consistent growth mindset, who believes str
 
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/7d6dc7c8-ca76-416a-aea5-3d8885f12089#gs.n2e7ww" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62773964" width="80"></a> &nbsp; <a href="https://www.credential.net/02ede1dc-b1ca-4e2d-85af-79b49f69c3a0#gs.n2gtl6" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643873" width="80"></a> &nbsp; <a href="https://www.credential.net/e486c41d-76cb-48d4-9b1e-844662b8c984#gs.n2gbie" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58586957" width="80"></a> &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/7d6dc7c8-ca76-416a-aea5-3d8885f12089#gs.n2e7ww" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62773964" width="80"></a> &nbsp; <a href="https://www.credential.net/02ede1dc-b1ca-4e2d-85af-79b49f69c3a0#gs.n2gtl6" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643873" width="80"></a> &nbsp; <a href="https://www.credential.net/e486c41d-76cb-48d4-9b1e-844662b8c984#gs.n2gbie" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58586957" width="80"></a> &nbsp;
+ <a href="https://www.credential.net/9fd443c2-42d5-4612-ab15-12e9c1f31984#gs.n9y0ih" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66351554" width="80"></a> &nbsp;
 </p>
 
 <h2 align ="left">GitHub Stats</h2>
