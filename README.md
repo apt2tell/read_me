@@ -5,15 +5,17 @@
 
 ## About me
 
-I’m an engineer who has a keen and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
+As a passionate software engineer, I consistently strive to enhance my skills and expertise through growth mindset, while maintaining a strong sense of integrity. My ultimate goal is to use my skills to make a meaningful impact on the community and deliver innovative solutions.
 
-💻 I am a seasoned Full-Stack developer with a proven ability to design and optimize products using Ruby/RoR, deep knowledge of relational databases, microservices, and Object Oriented Programming and a strong experience in Agile and Test Driven Development methodology. I am able to create complex products in a changing environment, communicate effectively with the team, and proactively implement innovation in my work, while being able to prioritize tasks and manage my own work while cooperating with others.
+💻 I am confident with my ability to design and optimize products using Ruby/RoR, deep knowledge of relational databases, and a strong experience in Agile and Test Driven Development (TDD) methodology. I can communicate effectively with my team, while being able to prioritize and manage my own tasks.
 
-- 🎓 I have a **bachelor's degree** in Electronic & computer engineering.
+## Education
+- 🎓 bachelor in **Electronic & Computer Enginnering** 
 
-- 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 **Full-Stack Software Developement** certificate, [Microverse Inc.](https://github.com/microverseinc)
 
-- 💻 All **my projects** are available [here.](https://github.com/Okechukwu-muokwugwo?tab=repositories)
+## Works/Projects
+- 💻 Samples of my works/projects are availbale [Here](https://github.com/Okechukwu-muokwugwo?tab=repositories)
 
 ### 📫 Reach me on:
 <p align="left">
