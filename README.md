@@ -5,9 +5,7 @@
 
 ## About me
 
-As a passionate software engineer, I consistently strive to enhance my skills and expertise through growth mindset, while maintaining a strong sense of integrity. My ultimate goal is to use my skills to make a meaningful impact on the community and deliver innovative solutions.
-
-💻 I am confident with my ability to design and optimize products using Ruby/RoR, deep knowledge of relational databases, and a strong experience in Agile and Test Driven Development (TDD) methodology. I can communicate effectively with my team, while being able to prioritize and manage my own tasks.
+🖥️ As a passionate software engineer, I consistently strive to enhance my skills and expertise through growth mindset, while maintaining a strong sense of integrity. My ultimate goal is to use my skills to make a meaningful impact on the community and deliver innovative solutions.
 
 ## Education
 - 🎓 bachelor in **Electronic & Computer Enginnering** 
