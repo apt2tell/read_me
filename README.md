@@ -3,7 +3,7 @@
 
 ## About me
 
-🖥️ As a passionate software engineer, I consistently strive to enhance my skills and expertise through growth mindset, while maintaining a strong sense of integrity. My ultimate goal is to use my skills to make a meaningful impact on the community and deliver innovative solutions.
+🖥️ As a driven software engineer, I relentlessly pursue growth and excellence, guided by an unwavering commitment to integrity. My aim is to leverage my skills towards creating positive change in the community through cutting-edge solutions that make a lasting impact.
 
 ## Education
 - 🎓 bachelor in **Electronic & Computer Enginnering** 
