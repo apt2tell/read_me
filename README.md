@@ -6,7 +6,7 @@
 🖥️ As a driven software engineer, I relentlessly pursue growth and excellence, guided by an unwavering commitment to integrity. My aim is to leverage my skills towards creating positive change in the community through cutting-edge solutions that make a lasting impact.
 
 ## Education
-- 🎓 bachelor in **Electronic & Computer Engineering** 
+- 🎓 Bachelor in **Electronic & Computer Engineering** 
 
 - 👩‍💻 **Full-Stack Software Developement** certificate, [Microverse Inc.](https://github.com/microverseinc)
 
