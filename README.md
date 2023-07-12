@@ -3,15 +3,15 @@
 
 ## About me
 
-🖥️ As a driven software engineer, I relentlessly pursue growth and excellence, guided by an unwavering commitment to integrity. My aim is to leverage my skills towards creating positive change in the community through cutting-edge solutions that make a lasting impact.
+🖥️ As a driven software engineer, I relentlessly pursue growth and excellence, guided by an unwavering commitment to integrity. My aim is to leverage my skills toward creating positive change in the community through cutting-edge solutions that make a lasting impact.
 
 ## Education
-- 🎓 Bachelor in **Electronic & Computer Engineering** 
+- 🎓 Bachelor in **Electronic & Computer Engineering**, [NAU](https://engineering.unizik.edu.ng/) 
 
 - 👩‍💻 **Full-Stack Software Developement** certificate, [Microverse Inc.](https://github.com/microverseinc)
 
 ## Works/Projects
-- 💻 Samples of my works/projects are availbale [Here](https://github.com/Okechukwu-muokwugwo?tab=repositories)
+- 💻 Samples of my works/projects are available [Here](https://github.com/Okechukwu-muokwugwo?tab=repositories)
 
 ### 📫 Reach me on:
 <p align="left">
