@@ -10,7 +10,7 @@
 - 👩‍💻 **Full-Stack Software Developement** certificate, [Microverse Inc.](https://github.com/microverseinc)
 
 ## Works/Projects
-- 💻 Samples of my works/projects are available [Here](https://github.com/Okechukwu-muokwugwo?tab=repositories)
+- 💻 Samples of my works/projects are available [Here](https://github.com/apt2tell?tab=repositories)
 
 ### 📫 Reach me on:
 <p align="left">
